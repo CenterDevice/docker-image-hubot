@@ -1,4 +1,4 @@
-FROM rheinwerk/hubot:0.1.1
+FROM rheinwerk/hubot:0.1.2
 
 MAINTAINER Lukas Pustina <lukas.pustina@centerdevice.de>
 
