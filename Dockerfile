@@ -15,6 +15,7 @@ WORKDIR /carl
 
 # Install Scripts
 RUN npm install --save hubot-bangbang
+RUN npm install --save hubot-bosun
 RUN npm install --save hubot-centerdevice
 COPY docker/external-scripts.json /carl/
 
